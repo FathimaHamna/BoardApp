@@ -17,7 +17,7 @@ export const Sidebar: React.FC<SidebarProps> = ({ sidebarExpanded, toggleSidebar
             <span className="text-white font-bold text-sm">B</span>
           </div>
           <div>
-            <h1 className="font-bold text-lg">Board App</h1>
+            <h1 className="font-bold text-lg text-black">Board App</h1>
             <p className="text-xs text-gray-500">Root folder</p>
           </div>
           <ChevronDown className="w-4 h-4 text-gray-400 ml-auto" />
